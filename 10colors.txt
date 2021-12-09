@@ -1,0 +1,11 @@
+black,"Black",#000,0,0,0
+blue,"Blue",#0000cd,0,0,205
+green,"Green",#008000,0,128,0
+purple,"Purple",#9400d3,148,0,211
+orange,"Orange",ff7f50,255,127,80
+red,"Red",#dc143c,220,20,60
+silver,"Silver",#a9a9a9,169,169,169
+dark_blue,"Dark Blue",#00008b,25,25,112
+white,"White",#f8f8ff,248,248,255
+yellow,"Yellow",#ff0,255,255,0
+
